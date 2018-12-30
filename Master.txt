@@ -22,6 +22,6 @@
 /data/Actors.json https://raw.githubusercontent.com/EvilDarkCrow/Actualizador-con-readme/master/Actors.json
 <End of Version>
 
-<Version: 2.10>
+<Version: 3.01>
 /data/Map001.json https://raw.githubusercontent.com/EvilDarkCrow/Actualizador-con-readme/master/Map001.json
 <End of Version>
