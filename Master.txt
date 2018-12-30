@@ -1,6 +1,6 @@
 
 <Version: 1.01>
 
-/data/Queso.png https://i.imgur.com/XLY7xxe.png
+/img/pictures/Queso.png https://i.imgur.com/XLY7xxe.png
 
 <End of Version>
