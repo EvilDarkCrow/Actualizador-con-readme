@@ -5,3 +5,7 @@
 <Version: 2.05>
 /data/Map001.json https://raw.githubusercontent.com/EvilDarkCrow/Actualizador-con-readme/master/Map001.json
 <End of Version>
+
+<Version: 2.06>
+/data/Map001.json https://raw.githubusercontent.com/EvilDarkCrow/Actualizador-con-readme/master/Map001.json
+<End of Version>
