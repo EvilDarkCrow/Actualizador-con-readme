@@ -1,9 +1,3 @@
-
-<Version: 1.01>
-
-/img/pictures/Queso.png https://i.imgur.com/XLY7xxe.png
-<End of Version>
-
 <Version: 1.02>
 
 /data/Map001.json https://raw.githubusercontent.com/EvilDarkCrow/Actualizador-con-readme/master/Map001.json
