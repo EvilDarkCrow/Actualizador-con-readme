@@ -1,4 +1,4 @@
-<Version: 3.02>
+<Version: 2.01>
 
 /data/Map001.json https://raw.githubusercontent.com/EvilDarkCrow/Actualizador-con-readme/master/Map001.json
 
